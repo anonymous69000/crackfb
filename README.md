@@ -10,6 +10,8 @@ pip install rich
 
 pip install bs4
 
+pip install stdiomask
+
 pip install mechanize
 
 git clone https://github.com/anonymous69000/crackfb
