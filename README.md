@@ -6,6 +6,8 @@ pkg install python
 
 pkg install git
 
+pip install requests
+
 pip install rich
 
 pip install bs4
