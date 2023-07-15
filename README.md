@@ -24,4 +24,4 @@ cd crackfb
 
 git pull
 
-python run.py
+python run2.py
