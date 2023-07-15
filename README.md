@@ -1,4 +1,4 @@
-# crackfb free sc
+#UPDATE SC CRACKFB FREE
 
 pkg update && pkg upgrade
 
